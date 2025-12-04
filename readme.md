@@ -2,8 +2,11 @@
 
 > /'mak.si.mus blak/
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
-student and I also love Physics, and want to learn more about how the Universe works.
+Welcome to my corner of the internet! I’m an emerging Web Developer and UI/UX Designer currently sharpening my craft through hands-on projects, experimentation, and plenty of late-night debugging.
+
+I’m studying HTML, CSS, JavaScript, Python, and Machine Learning at Equinix College, where I’m building the foundations of both front-end creativity and back-end logic. I also dabble in illustration, which helps influence my visual design style and keeps my projects expressive and human.
+
+Here on GitHub you’ll find my work in progress — everything from small ideas I’m testing to bigger projects where I’m levelling up my skills. Stick around, explore, and feel free to connect or collaborate!
 
 [`🏠 maximousblk.me`](https://maximousblk.me/)
 [`📫 maximousblk@gmail.com`](mailto:maximousblk@gmail.com)
